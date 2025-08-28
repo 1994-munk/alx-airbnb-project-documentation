@@ -4,7 +4,7 @@ This use case diagram visualizes the main interactions between users and the sys
 
 ## Diagram
 
-![Use Case Diagram](usercasediagram.png)
+![Use Case Diagram](usecasediagram.drawio.png)
 
 ## Description
 
